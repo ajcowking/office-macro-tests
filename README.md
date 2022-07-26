@@ -6,4 +6,7 @@ These files are not intended to be malicious, merely to hold a macro payload. In
 
 Please note the (lack of) warranty per the LICENSE file.
 
+This link will let you download an Excel file with a macro:
+- https://github.com/ajcowking/office-macro-tests/raw/main/Excel-workbook-with-macro.xlsm
+
 --Adam
